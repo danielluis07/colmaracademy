@@ -1,0 +1,2468 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+
+#campus,
+#online,
+#logo-2,
+#login {
+    display: none;
+
+}
+
+h1,
+h2,
+h3,
+h5,
+h6,
+li,
+p {
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+    cursor: context-menu;
+}
+
+li:hover {
+    cursor: pointer;
+}
+
+.academy:hover {
+    cursor: context-menu;
+}
+
+.nav {
+    background-color: white;
+    text-align: right;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.nav .academy {
+    position: absolute;
+    left: 70px;
+    font-size: 20px;
+}
+
+#logo {
+    position: absolute;
+    top: 17px;
+    left: 30px;
+    height: 40px;
+    width: 40px;
+}
+
+.nav li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: inline-block;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-right: 24px;
+    font-size: 16px;
+}
+
+.table {
+    background-color:darkgray;
+    border: none;
+    padding-top: 0px;
+    min-width: 100%;
+}
+
+#banner {
+    display: inline-block;
+    padding-left: 24px;
+    padding-right: 0px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    width: 58%;
+    min-width: 30%;
+}
+
+.table .title-1 {
+    display: inline-block;
+    margin-left: 50px;
+    vertical-align: 200px;
+    min-width: 30%;
+    overflow: hidden;
+    
+}
+
+.table .title-1 p {
+    min-width: 100%;
+    font-weight: bold;
+    line-height: 25px;
+    padding-left: 0px;
+}
+
+.table .title-1 button {
+    color: white;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 110px;
+    padding-right: 120px;
+    border: none;
+    
+
+}
+
+.main {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(227, 230, 230);
+    
+}
+
+.main .img-container {
+    width: 62%;
+    height: 100%;
+    display: inline-block;
+    vertical-align: top;
+    padding-bottom: 50px;
+}
+
+.img-container h1, p {
+    padding-left: 24px;
+    width: 55%;
+}
+
+.img-container #reading-img {
+    padding-top: 32px;
+    padding-left: 24px;
+    width: 93.5%;
+
+}
+
+.main .navs {
+    width: 37%;
+    height: 100%;
+    display: inline-block;
+    margin-right: 0px;
+}
+
+.navs h5 {
+    margin-left: 24px;
+    font-size: 22px;
+}
+
+.navs p {
+    padding-top: 0px;
+    font-size: 14px;
+    width: 100%;
+}
+
+.nav-01 {
+    border: 1px solid rgba(0, 0, 0, 0.342);
+    border-right: none;
+    border-bottom: none;
+    border-top: none;
+    
+}
+
+.nav-02 {
+    border: 1px solid rgba(0, 0, 0, 0.342);
+    border-right: none;
+    border-bottom: none;
+}
+
+.nav-03 {
+    border: 1px solid rgba(0, 0, 0, 0.342);
+    background-color: rgb(182, 182, 182);
+}
+
+#nav-img-01,
+#nav-img-02,
+#nav-img-03 {
+    height: auto;
+    width: 34%;
+    padding-left: 20px;
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+
+.nav-01 .nav-01-text {
+    display: inline-block;
+    vertical-align: 60px;
+    width: 50%;
+
+}
+
+
+.nav-02 .nav-02-text {
+    display: inline-block;
+    vertical-align: 60px;
+    width: 50%;
+}
+
+.nav-03 .nav-03-text {
+    display: inline-block;
+    vertical-align: 40px;
+    width: 50%;
+}
+
+.main-2 {
+    background-color: rgb(199, 198, 198);
+    height: 100%;
+}
+
+.main-2 h1 {
+    text-align: center;
+
+}
+
+.software,
+.computer,
+.design,
+.data,
+.business,
+.marketing {
+    width: 22%;
+    display: inline-block;
+    margin-left: 185px;
+    margin-bottom: 20px;
+    background-color: white;
+    
+}
+
+.software:hover {
+    opacity: 0.5;
+}
+
+.computer:hover {
+    opacity: 0.5;
+}
+
+.design:hover {
+    opacity: 0.5;
+}
+
+.data:hover {
+    opacity: 0.5;
+}
+
+.business:hover {
+    opacity: 0.5;
+}
+
+.marketing:hover {
+    opacity: 0.5;
+}
+
+.computer {
+    position: relative;
+    top: 23px;
+    margin-left: 29px;
+    margin-top: 30px;
+    height: 273px;
+    padding-bottom: 7px;
+    
+}
+
+
+.design {
+    margin-left: 30px;
+}
+
+.business {
+    margin-left: 30px;
+}
+
+.marketing {
+    margin-left: 28px;
+}
+
+.software p {
+    width: 90%;
+    font-size: 12px;
+}
+
+.computer p {
+    width: 93%;
+    font-size: 12px;
+}
+
+.computer h5 {
+    line-height: 5px;
+    padding-left: 24px;
+
+}
+
+
+.design p {
+    width: 85%;
+    font-size: 12px;
+}
+
+.data p {
+    width: 90%;
+    font-size: 12px;
+}
+
+.business p {
+    width: 90%;
+    font-size: 12px;
+}
+
+.marketing p {
+    width: 90%;
+    font-size: 12px;
+}
+
+.images-container #software,
+#computer,
+#design,
+#data,
+#business,
+#marketing {
+    width: 100%;
+    height: auto;
+
+}
+
+.images-container {
+    padding-bottom: 28px;
+}
+
+
+#line {
+    padding-bottom: 15px;
+}
+
+.main-2 h1 {
+    margin-top: 0px;
+    padding-top: 50px;
+}
+
+.main-2 .computer-text{
+    position: relative;
+    top: -8px;
+}
+
+.video {
+    margin-left: 30px;
+    display: inline-block;
+    width: 48%;
+
+}
+
+video {
+    width: 600px;
+    height: 480px;
+}
+
+.video-text h2 {
+    padding-left: 0px;
+}
+
+.video-text {
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+.video-text p {
+    width: 95%;
+    padding-left: 0px;
+
+}
+
+.draw-and-town {
+    display: inline-block;
+    width: 49%;
+    vertical-align: 158px;
+}
+
+.draw {
+    background-color: rgb(182, 182, 182);;
+}
+
+.town {
+    padding-top: 10px;
+}
+
+.draw-text {
+    display: inline-block;
+    width: 40%;
+    vertical-align: 30px;
+}
+
+.draw-text p {
+    width: 100%;
+}
+
+
+.town-text {
+    display: inline-block;
+    vertical-align: 50px;
+    
+}
+
+.town-text p {
+    width: 100%;
+}
+
+h3 {
+    padding-left: 23px;
+}
+
+#draw, #town {
+    width: 25%;
+    padding: 15px 15px;
+}
+
+.main-3 {
+    background-color: rgb(228, 230, 230);
+}
+
+.main-3 h1 {
+    text-align: center;
+    padding: 30px 30px;
+}
+
+#thesis {
+    margin: 0px;
+    padding-top: 40px;
+    padding-bottom: 0px;
+}
+
+footer {
+    margin-top: 0px;
+    border: 1px solid gray;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    padding-top: 5px;
+    padding-bottom: 40px;
+    text-align: right;
+    min-width: 100%;
+}
+
+#colmar {
+    position: absolute;
+    left: 20px;
+}
+
+footer li {
+    display: inline-block;
+    margin-right: 20px;
+    font-size: 12px;
+}
+
+.pads {
+    display: none;
+
+}
+
+#read-link {
+    color: blue;
+}
+
+#read-link:hover {
+    cursor: pointer;
+}
+
+.table .title-1 button:hover {
+    cursor: pointer;
+    background-color: rgb(56, 56, 56);
+    border: none;
+}
+
+.img-container-text {
+    width: 100%;
+    
+}
+
+.img-container-text p {
+    width: 80%;
+    
+}
+
+@media only screen and (max-width: 1300px) and (min-width: 1060px) {
+    .draw-and-town {
+        display: block;
+        margin-left: 330px;
+    }
+
+    .video {
+        margin-left: 330px;
+    }
+}
+
+@media only screen and (max-width: 1053px) and (min-width: 850px) {
+    .title-1 {
+        position: absolute;
+        top: 150px;
+    }
+
+    #nav-img-01,
+    #nav-img-02,
+    #nav-img-03 {
+    vertical-align: 50px;
+}
+    
+    .computer {
+        position: relative;
+        top: 23px;
+        margin-left: 29px;
+        margin-top: 30px;
+        height: 246px;
+        padding-bottom: 7px;
+}
+
+}
+
+@media only screen and (max-width: 990px) {
+    .computer p {
+        margin-left: -14px;
+    }
+}
+
+@media only screen and (max-width: 850px) {
+
+
+    #thesis {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+    #logo {
+        display: none;
+    }
+
+    .nav {
+        background-color: white;
+        
+    }
+
+    .nav li {
+        display: none;
+        
+    }
+
+    #logo-2,
+    #campus,
+    #online,
+    #login {
+        display: inline-block;
+        padding: 20px 80px;
+
+        
+    }
+
+
+    .table {
+        padding-bottom: 0px;
+        height: 900px;
+    }
+
+    .table #banner {
+        width: 100%;
+        padding-left: 0px;
+        padding-top: 0px
+        
+    }
+
+    .table .title-1 {
+        margin-left: 20px;
+    
+    }
+
+
+    
+    .main .img-container {
+        display: none;
+    
+    }
+
+    .main .navs {
+        margin-left: 0px;
+        margin-top: 0px;
+        min-width: 100%;
+
+    }
+
+    .images-container {
+        display: none;
+    }
+
+    video {
+        width: 100%;
+        margin-bottom: 0px;
+        height: 380px;
+        
+    }
+
+    .draw-and-town {
+        display: none;
+    }
+
+
+    .pads {
+        display: block;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding-bottom: 20px;
+
+    }
+
+    .pads h2 {
+        padding: 30px 30px;
+        background-color: rgb(155, 154, 154);
+
+    }
+
+    .video-text {
+        display: none;
+    }
+
+    .video {
+        width: 100%;
+        margin-left: 0px;
+        
+    }
+
+    footer {
+        margin-top: 0px;
+    }
+
+    .main-2 {
+        background-color: rgb(228, 230, 230);
+        border: 1px solid gray;
+        border-right: none;
+    }
+
+    footer {
+        background-color: rgb(228, 230, 230);
+    }
+
+}
+
+@media only screen and (max-width: 800px) {
+
+
+    #logo {
+        display: none;
+    }
+
+    .nav {
+        background-color: white;
+        
+    }
+
+    .nav li {
+        display: none;
+        
+    }
+
+    #logo-2,
+    #campus,
+    #online,
+    #login {
+        display: inline-block;
+        padding: 20px 75px;
+
+    }
+
+    
+    .table {
+        height: 900px;
+    }
+
+    .table #banner {
+        width: 100%;
+        padding-left: 0px;
+        padding-top: 0px
+        
+    }
+
+    .table .title-1 {
+        margin-left: 20px;
+
+    }
+
+    
+    .main .img-container {
+        display: none;
+    
+    }
+
+    .main .navs {
+        margin-left: 0px;
+        margin-top: 0px;
+        width: 100%;
+
+    }
+
+    .images-container {
+        display: none;
+    }
+
+    video {
+        width: 100%;
+        margin-bottom: 0px;
+        height: 380px;
+        
+    }
+
+    .draw-and-town {
+        display: none;
+    }
+
+
+    .pads {
+        display: block;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding-bottom: 20px;
+
+    }
+
+    .pads h2 {
+        padding: 30px 30px;
+        background-color: rgb(155, 154, 154);
+
+    }
+
+    .video-text {
+        display: none;
+    }
+
+    .video {
+        width: 100%;
+        margin-left: 0px;
+        
+    }
+
+    footer {
+        margin-top: 0px;
+    }
+
+    .main-2 {
+        background-color: rgb(228, 230, 230);
+        border: 1px solid gray;
+        border-right: none;
+    }
+
+    footer {
+        background-color: rgb(228, 230, 230);
+    }
+
+}
+
+@media only screen and (max-width: 750px) {
+
+
+    #logo {
+        display: none;
+    }
+
+    .nav {
+        background-color: white;
+        
+    }
+
+    .nav li {
+        display: none;
+        
+    }
+
+    #logo-2,
+    #campus,
+    #online,
+    #login {
+        display: inline-block;
+        padding: 20px 70px;
+
+        
+    }
+
+    
+    .table {
+        padding-bottom: 0px;
+        height: 850px;
+    }
+
+    .table #banner {
+        width: 100%;
+        padding-left: 0px;
+        padding-top: 0px
+        
+    }
+
+    .table .title-1 {
+        margin-left: 20px;
+
+    }
+
+    
+    .main .img-container {
+        display: none;
+    
+    }
+
+    .main .navs {
+        margin-left: 0px;
+        margin-top: 0px;
+        min-width: 100%;
+
+    }
+
+    .images-container {
+        display: none;
+    }
+
+    video {
+        width: 100%;
+        margin-bottom: 0px;
+        height: 380px;
+        
+    }
+
+    .draw-and-town {
+        display: none;
+    }
+
+
+    .pads {
+        display: block;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding-bottom: 20px;
+
+    }
+
+    .pads h2 {
+        padding: 30px 30px;
+        background-color: rgb(155, 154, 154);
+
+    }
+
+    .video-text {
+        display: none;
+    }
+
+    .video {
+        width: 100%;
+        margin-left: 0px;
+        
+    }
+
+    footer {
+        margin-top: 0px;
+    }
+
+    .main-2 {
+        background-color: rgb(228, 230, 230);
+        border: 1px solid gray;
+        border-right: none;
+    }
+
+    footer {
+        background-color: rgb(228, 230, 230);
+    }
+
+}
+
+@media only screen and (max-width: 700px) {
+
+
+    #logo {
+        display: none;
+    }
+
+    .nav {
+        background-color: white;
+        
+    }
+
+    .nav li {
+        display: none;
+        
+    }
+
+    #logo-2,
+    #campus,
+    #online,
+    #login {
+        display: inline-block;
+        padding: 20px 70px;
+
+        
+    }
+
+    
+    .table {
+        padding-bottom: 0px;
+        height: 850px;
+    }
+
+    .table #banner {
+        width: 100%;
+        padding-left: 0px;
+        padding-top: 0px
+        
+    }
+
+    .table .title-1 {
+        margin-left: 30px;
+
+    }
+
+    
+    .main .img-container {
+        display: none;
+    
+    }
+
+    .main .navs {
+        margin-left: 0px;
+        margin-top: 0px;
+        min-width: 100%;
+
+    }
+
+    .images-container {
+        display: none;
+    }
+
+    video {
+        width: 100%;
+        margin-bottom: 0px;
+        height: 380px;
+        
+    }
+
+    .draw-and-town {
+        display: none;
+    }
+
+
+    .pads {
+        display: block;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding-bottom: 20px;
+
+    }
+
+    .pads h2 {
+        padding: 30px 30px;
+        background-color: rgb(155, 154, 154);
+
+    }
+
+    .video-text {
+        display: none;
+    }
+
+    .video {
+        width: 100%;
+        margin-left: 0px;
+        
+    }
+
+    footer {
+        margin-top: 0px;
+    }
+
+    .main-2 {
+        background-color: rgb(228, 230, 230);
+        border: 1px solid gray;
+        border-right: none;
+    }
+
+    footer {
+        background-color: rgb(228, 230, 230);
+    }
+
+}
+
+@media only screen and (max-width: 698px) {
+
+
+    #logo {
+        display: none;
+    }
+
+    .nav {
+        background-color: white;
+        
+    }
+
+    .nav li {
+        display: none;
+        
+    }
+
+    #logo-2,
+    #campus,
+    #online,
+    #login {
+        display: inline-block;
+        padding: 20px 68px;
+
+        
+    }
+
+    
+    .table {
+        padding-bottom: 0px;
+        height: 850px;
+    }
+
+    .table #banner {
+        width: 100%;
+        padding-left: 0px;
+        padding-top: 0px
+        
+    }
+
+    .table .title-1 {
+        margin-left: 20px;
+
+    }
+
+    
+    .main .img-container {
+        display: none;
+    
+    }
+
+    .main .navs {
+        margin-left: 0px;
+        margin-top: 0px;
+        min-width: 100%;
+
+    }
+
+    .images-container {
+        display: none;
+    }
+
+    video {
+        width: 100%;
+        margin-bottom: 0px;
+        height: 380px;
+        
+    }
+
+    .draw-and-town {
+        display: none;
+    }
+
+
+    .pads {
+        display: block;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding-bottom: 20px;
+
+    }
+
+    .pads h2 {
+        padding: 30px 30px;
+        background-color: rgb(155, 154, 154);
+
+    }
+
+    .video-text {
+        display: none;
+    }
+
+    .video {
+        width: 100%;
+        margin-left: 0px;
+        
+    }
+
+    footer {
+        margin-top: 0px;
+    }
+
+    .main-2 {
+        background-color: rgb(228, 230, 230);
+        border: 1px solid gray;
+        border-right: none;
+    }
+
+    footer {
+        background-color: rgb(228, 230, 230);
+    }
+
+}
+
+@media only screen and (max-width: 680px) {
+
+
+    #logo {
+        display: none;
+    }
+
+    .nav {
+        background-color: white;
+        
+    }
+
+    .nav li {
+        display: none;
+        
+    }
+
+    #logo-2,
+    #campus,
+    #online,
+    #login {
+        display: inline-block;
+        padding: 20px 65px;
+        
+    }
+
+    
+    .table {
+        padding-bottom: 0px;
+        height: 850px;
+    }
+
+    .table #banner {
+        width: 100%;
+        padding-left: 0px;
+        padding-top: 0px
+        
+    }
+
+    .table .title-1 {
+        margin-left: 20px;
+
+    }
+
+    
+    .main .img-container {
+        display: none;
+    
+    }
+
+    .main .navs {
+        margin-left: 0px;
+        margin-top: 0px;
+        min-width: 100%;
+
+    }
+
+    .images-container {
+        display: none;
+    }
+
+    video {
+        width: 100%;
+        margin-bottom: 0px;
+        height: 380px;
+        
+    }
+
+    .draw-and-town {
+        display: none;
+    }
+
+
+    .pads {
+        display: block;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding-bottom: 20px;
+
+    }
+
+    .pads h2 {
+        padding: 30px 30px;
+        background-color: rgb(155, 154, 154);
+
+    }
+
+    .video-text {
+        display: none;
+    }
+
+    .video {
+        width: 100%;
+        margin-left: 0px;
+        
+    }
+
+    footer {
+        margin-top: 0px;
+    }
+
+    .main-2 {
+        background-color: rgb(228, 230, 230);
+        border: 1px solid gray;
+        border-right: none;
+    }
+
+    footer {
+        background-color: rgb(228, 230, 230);
+    }
+
+}
+
+@media only screen and (max-width: 660px) {
+
+
+    #logo {
+        display: none;
+    }
+
+    .nav {
+        background-color: white;
+        
+    }
+
+    .nav li {
+        display: none;
+        
+    }
+
+    #logo-2,
+    #campus,
+    #online,
+    #login {
+        display: inline-block;
+        padding: 20px 63px;
+        
+    }
+
+    
+    .table {
+        padding-bottom: 0px;
+        height: 850px;
+    }
+
+    .table #banner {
+        width: 100%;
+        padding-left: 0px;
+        padding-top: 0px
+        
+    }
+
+    .table .title-1 {
+        margin-left: 20px;
+
+    }
+
+    
+    .main .img-container {
+        display: none;
+    
+    }
+
+    .main .navs {
+        margin-left: 0px;
+        margin-top: 0px;
+        min-width: 100%;
+
+    }
+
+    .images-container {
+        display: none;
+    }
+
+    video {
+        width: 100%;
+        margin-bottom: 0px;
+        height: 380px;
+        
+    }
+
+    .draw-and-town {
+        display: none;
+    }
+
+
+    .pads {
+        display: block;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding-bottom: 20px;
+
+    }
+
+    .pads h2 {
+        padding: 30px 30px;
+        background-color: rgb(155, 154, 154);
+
+    }
+
+    .video-text {
+        display: none;
+    }
+
+    .video {
+        width: 100%;
+        margin-left: 0px;
+        
+    }
+
+    footer {
+        margin-top: 0px;
+    }
+
+    .main-2 {
+        background-color: rgb(228, 230, 230);
+        border: 1px solid gray;
+        border-right: none;
+    }
+
+    footer {
+        background-color: rgb(228, 230, 230);
+    }
+
+}
+
+@media only screen and (max-width: 650px) {
+
+
+#thesis {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+    #logo {
+        display: none;
+    }
+
+    .nav {
+        background-color: white;
+        
+    }
+
+    .nav li {
+        display: none;
+        
+    }
+
+    #thesis {
+        padding-top: 10px;
+    }
+
+    #logo-2,
+    #campus,
+    #online,
+    #login {
+        display: inline-block;
+        padding: 20px 60px;
+        
+    }
+
+    
+    .table {
+        padding-bottom: 0px;
+        height: 800px;
+    }
+
+    .table #banner {
+        width: 100%;
+        padding-left: 0px;
+        padding-top: 0px
+        
+    }
+
+    .table .title-1 {
+        margin-left: 30px;
+
+    }
+
+    
+    .main .img-container {
+        display: none;
+    
+    }
+
+    .main .navs {
+        margin-left: 0px;
+        margin-top: 0px;
+        min-width: 100%;
+
+    }
+
+    .images-container {
+        display: none;
+    }
+
+    video {
+        width: 100%;
+        margin-bottom: 0px;
+        height: 380px;
+        
+    }
+
+    .draw-and-town {
+        display: none;
+    }
+
+
+    .pads {
+        display: block;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding-bottom: 20px;
+
+    }
+
+    .pads h2 {
+        padding: 30px 30px;
+        background-color: rgb(155, 154, 154);
+
+    }
+
+    .video-text {
+        display: none;
+    }
+
+    .video {
+        width: 100%;
+        margin-left: 0px;
+        
+    }
+
+    footer {
+        margin-top: 0px;
+    }
+
+    .main-2 {
+        background-color: rgb(228, 230, 230);
+        border: 1px solid gray;
+        border-right: none;
+    }
+
+    footer {
+        background-color: rgb(228, 230, 230);
+    }
+
+}
+
+@media only screen and (max-width: 620px) {
+
+
+    #logo {
+        display: none;
+    }
+
+    .nav {
+        background-color: white;
+        
+    }
+
+    .nav li {
+        display: none;
+        
+    }
+
+    #logo-2,
+    #campus,
+    #online,
+    #login {
+        display: inline-block;
+        padding: 20px 58px;
+
+        
+    }
+
+    
+    .table {
+        padding-bottom: 0px;
+        height: 800px;
+    }
+
+    .table #banner {
+        width: 100%;
+        padding-left: 0px;
+        padding-top: 0px
+        
+    }
+
+    .table .title-1 {
+        margin-left: 30px;
+
+    }
+
+    
+    .main .img-container {
+        display: none;
+    
+    }
+
+    .main .navs {
+        margin-left: 0px;
+        margin-top: 0px;
+        min-width: 100%;
+
+    }
+
+    .images-container {
+        display: none;
+    }
+
+    video {
+        width: 100%;
+        margin-bottom: 0px;
+        height: 380px;
+        
+    }
+
+    .draw-and-town {
+        display: none;
+    }
+
+
+    .pads {
+        display: block;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding-bottom: 20px;
+
+    }
+
+    .pads h2 {
+        padding: 30px 30px;
+        background-color: rgb(155, 154, 154);
+
+    }
+
+    .video-text {
+        display: none;
+    }
+
+    .video {
+        width: 100%;
+        margin-left: 0px;
+        
+    }
+
+    #thesis {
+        padding-top: 10px;
+    }
+
+    footer {
+        margin-top: 0px;
+    }
+
+    .main-2 {
+        background-color: rgb(228, 230, 230);
+        border: 1px solid gray;
+        border-right: none;
+    }
+
+    footer {
+        background-color: rgb(228, 230, 230);
+    }
+
+}
+
+@media only screen and (max-width: 600px) {
+
+
+    #logo {
+        display: none;
+    }
+
+    .nav {
+        background-color: white;
+        
+    }
+
+    .nav li {
+        display: none;
+        
+    }
+
+    #logo-2,
+    #campus,
+    #online,
+    #login {
+        display: inline-block;
+        padding: 20px 55px;
+
+        
+    }
+
+    
+    .table {
+        padding-bottom: 0px;
+        height: 800px;
+    }
+
+    .table #banner {
+        width: 100%;
+        padding-left: 0px;
+        padding-top: 0px
+        
+    }
+
+    .table .title-1 {
+        margin-left: 30px;
+
+    }
+
+    
+    .main .img-container {
+        display: none;
+    
+    }
+
+    .main .navs {
+        margin-left: 0px;
+        margin-top: 0px;
+        min-width: 100%;
+
+    }
+
+    .images-container {
+        display: none;
+    }
+
+    video {
+        width: 100%;
+        margin-bottom: 0px;
+        height: 380px;
+        
+    }
+
+    .draw-and-town {
+        display: none;
+    }
+
+
+    .pads {
+        display: block;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding-bottom: 20px;
+
+    }
+
+    .pads h2 {
+        padding: 30px 30px;
+        background-color: rgb(155, 154, 154);
+
+    }
+
+    .video-text {
+        display: none;
+    }
+
+    .video {
+        width: 100%;
+        margin-left: 0px;
+        
+    }
+
+    footer {
+        margin-top: 0px;
+    }
+
+    .main-2 {
+        background-color: rgb(228, 230, 230);
+        border: 1px solid gray;
+        border-right: none;
+    }
+
+    footer {
+        background-color: rgb(228, 230, 230);
+    }
+
+}
+
+@media only screen and (max-width: 580px) {
+
+
+    #logo {
+        display: none;
+    }
+
+    .nav {
+        background-color: white;
+        
+    }
+
+    .nav li {
+        display: none;
+        
+    }
+
+    #logo-2,
+    #campus,
+    #online,
+    #login {
+        display: inline-block;
+        padding: 20px 50px;
+
+        
+    }
+
+    
+    .table {
+        padding-bottom: 0px;
+        height: 700px;
+    }
+
+    .table #banner {
+        width: 100%;
+        padding-left: 0px;
+        padding-top: 0px
+        
+    }
+
+    .table .title-1 {
+        margin-left: 30px;
+
+    }
+
+    
+    .main .img-container {
+        display: none;
+    
+    }
+
+    .main .navs {
+        margin-left: 0px;
+        margin-top: 0px;
+        min-width: 100%;
+
+    }
+
+    .images-container {
+        display: none;
+    }
+
+    video {
+        width: 100%;
+        margin-bottom: 0px;
+        height: 380px;
+        
+    }
+
+    .draw-and-town {
+        display: none;
+    }
+
+
+    .pads {
+        display: block;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding-bottom: 20px;
+
+    }
+
+    .pads h2 {
+        padding: 30px 30px;
+        background-color: rgb(155, 154, 154);
+
+    }
+
+    .video-text {
+        display: none;
+    }
+
+    .video {
+        width: 100%;
+        margin-left: 0px;
+        
+    }
+
+    footer {
+        margin-top: 0px;
+    }
+
+    .main-2 {
+        background-color: rgb(228, 230, 230);
+        border: 1px solid gray;
+        border-right: none;
+    }
+
+    footer {
+        background-color: rgb(228, 230, 230);
+    }
+
+}
+
+@media only screen and (max-width: 550px) {
+
+
+    #logo {
+        display: none;
+    }
+
+    .nav {
+        background-color: white;
+        
+    }
+
+    .nav li {
+        display: none;
+        
+    }
+
+    #logo-2,
+    #campus,
+    #online,
+    #login {
+        display: inline-block;
+        padding: 20px 45px;
+   
+    }
+
+    
+    .table {
+        padding-bottom: 0px;
+        height: 700px;
+    }
+
+    .table #banner {
+        width: 100%;
+        padding-left: 0px;
+        padding-top: 0px
+        
+    }
+
+    .table .title-1 {
+        margin-left: 30px;
+
+    }
+
+    
+    .main .img-container {
+        display: none;
+    
+    }
+
+    .main .navs {
+        margin-left: 0px;
+        margin-top: 0px;
+        min-width: 100%;
+
+    }
+
+    .images-container {
+        display: none;
+    }
+
+    video {
+        width: 100%;
+        margin-bottom: 0px;
+        height: 380px;
+        
+    }
+
+    .draw-and-town {
+        display: none;
+    }
+
+
+    .pads {
+        display: block;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding-bottom: 20px;
+
+    }
+
+    .pads h2 {
+        padding: 30px 30px;
+        background-color: rgb(155, 154, 154);
+
+    }
+
+    .video-text {
+        display: none;
+    }
+
+    .video {
+        width: 100%;
+        margin-left: 0px;
+        
+    }
+
+    footer {
+        margin-top: 0px;
+    }
+
+    .main-2 {
+        background-color: rgb(228, 230, 230);
+        border: 1px solid gray;
+        border-right: none;
+    }
+
+    footer {
+        background-color: rgb(228, 230, 230);
+    }
+
+}
+
+@media only screen and (max-width: 550px) {
+
+
+    #logo {
+        display: none;
+    }
+
+    .nav {
+        background-color: white;
+        
+    }
+
+    .nav li {
+        display: none;
+        
+    }
+
+    #logo-2,
+    #campus,
+    #online,
+    #login {
+        display: inline-block;
+        padding: 20px 40px;
+   
+    }
+
+    
+    .table {
+        padding-bottom: 0px;
+        height: 700px;
+    }
+
+    .table #banner {
+        width: 100%;
+        padding-left: 0px;
+        padding-top: 0px
+        
+    }
+
+    .table .title-1 {
+        margin-left: 30px;
+
+    }
+
+    
+    .main .img-container {
+        display: none;
+    
+    }
+
+    .main .navs {
+        margin-left: 0px;
+        margin-top: 0px;
+        min-width: 100%;
+
+    }
+
+    .images-container {
+        display: none;
+    }
+
+    video {
+        width: 100%;
+        margin-bottom: 0px;
+        height: 380px;
+        
+    }
+
+    .draw-and-town {
+        display: none;
+    }
+
+
+    .pads {
+        display: block;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding-bottom: 20px;
+
+    }
+
+    .pads h2 {
+        padding: 30px 30px;
+        background-color: rgb(155, 154, 154);
+
+    }
+
+    .video-text {
+        display: none;
+    }
+
+    .video {
+        width: 100%;
+        margin-left: 0px;
+        
+    }
+
+    footer {
+        margin-top: 0px;
+    }
+
+    .main-2 {
+        background-color: rgb(228, 230, 230);
+        border: 1px solid gray;
+        border-right: none;
+    }
+
+    footer {
+        background-color: rgb(228, 230, 230);
+    }
+
+}
+
+@media only screen and (max-width: 460px) {
+
+
+    #logo {
+        display: none;
+    }
+
+    .nav {
+        background-color: white;
+        
+    }
+
+    .nav li {
+        display: none;
+        
+    }
+
+    #logo-2,
+    #campus,
+    #online,
+    #login {
+        display: inline-block;
+        padding: 20px 35px;
+   
+    }
+
+    
+    .table {
+        padding-bottom: 0px;
+        height: 600px;
+    }
+
+    .table #banner {
+        width: 100%;
+        padding-left: 0px;
+        padding-top: 0px
+        
+    }
+
+    .table .title-1 {
+        margin-left: 30px;
+
+    }
+
+    
+    .main .img-container {
+        display: none;
+    
+    }
+
+    .main .navs {
+        margin-left: 0px;
+        margin-top: 0px;
+        min-width: 100%;
+
+    }
+
+    .images-container {
+        display: none;
+    }
+
+    video {
+        width: 100%;
+        margin-bottom: 0px;
+        height: 380px;
+        
+    }
+
+    .draw-and-town {
+        display: none;
+    }
+
+
+    .pads {
+        display: block;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding-bottom: 20px;
+
+    }
+
+    .pads h2 {
+        padding: 30px 30px;
+        background-color: rgb(155, 154, 154);
+
+    }
+
+    .video-text {
+        display: none;
+    }
+
+    .video {
+        width: 100%;
+        margin-left: 0px;
+        
+    }
+
+    footer {
+        margin-top: 0px;
+    }
+
+    .main-2 {
+        background-color: rgb(228, 230, 230);
+        border: 1px solid gray;
+        border-right: none;
+    }
+
+    footer {
+        background-color: rgb(228, 230, 230);
+    }
+
+}
+
+@media only screen and (max-width: 400px) {
+
+
+    #logo {
+        display: none;
+    }
+
+    .nav {
+        background-color: white;
+        
+    }
+
+    .nav li {
+        display: none;
+        
+    }
+
+    #logo-2,
+    #campus,
+    #online,
+    #login {
+        display: inline-block;
+        padding: 20px 30px;
+   
+    }
+
+    
+    .table {
+        padding-bottom: 0px;
+        height: 700px;
+    }
+
+    .table #banner {
+        width: 100%;
+        padding-left: 0px;
+        padding-top: 0px
+        
+    }
+
+    .table .title-1 {
+        margin-left: 30px;
+
+    }
+
+    
+    .main .img-container {
+        display: none;
+    
+    }
+
+    .main .navs {
+        margin-left: 0px;
+        margin-top: 0px;
+        min-width: 100%;
+
+    }
+
+    .images-container {
+        display: none;
+    }
+
+    video {
+        width: 100%;
+        margin-bottom: 0px;
+        height: 380px;
+        
+    }
+
+    .draw-and-town {
+        display: none;
+    }
+
+
+    .pads {
+        display: block;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding-bottom: 20px;
+
+    }
+
+    .pads h2 {
+        padding: 30px 30px;
+        background-color: rgb(155, 154, 154);
+
+    }
+
+    .video-text {
+        display: none;
+    }
+
+    .video {
+        width: 100%;
+        margin-left: 0px;
+        
+    }
+
+    footer {
+        margin-top: 0px;
+    }
+
+    .main-2 {
+        background-color: rgb(228, 230, 230);
+        border: 1px solid gray;
+        border-right: none;
+    }
+
+    footer {
+        background-color: rgb(228, 230, 230);
+    }
+
+}
+
+@media only screen and (max-width: 390px) {
+
+
+    #logo {
+        display: none;
+    }
+
+    .nav {
+        background-color: white;
+        
+    }
+
+    .nav li {
+        display: none;
+        
+    }
+
+    #logo-2,
+    #campus,
+    #online,
+    #login {
+        display: inline-block;
+        padding: 20px 30px;
+   
+    }
+
+    
+    .table {
+        padding-bottom: 0px;
+        height: 600px;
+    }
+
+    .table #banner {
+        width: 100%;
+        padding-left: 0px;
+        padding-top: 0px
+        
+    }
+
+    .table .title-1 {
+        margin-left: 20px;
+
+    }
+
+    
+    .main .img-container {
+        display: none;
+    
+    }
+
+    .main .navs {
+        margin-left: 0px;
+        margin-top: 0px;
+        min-width: 100%;
+
+    }
+
+    .images-container {
+        display: none;
+    }
+
+    video {
+        width: 100%;
+        margin-bottom: 0px;
+        height: 380px;
+        
+    }
+
+    .draw-and-town {
+        display: none;
+    }
+
+
+    .pads {
+        display: block;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding-bottom: 20px;
+
+    }
+
+    .pads h2 {
+        padding: 30px 30px;
+        background-color: rgb(155, 154, 154);
+
+    }
+
+    .video-text {
+        display: none;
+    }
+
+    .video {
+        width: 100%;
+        margin-left: 0px;
+        
+    }
+
+    footer {
+        margin-top: 0px;
+    }
+
+    .main-2 {
+        background-color: rgb(228, 230, 230);
+        border: 1px solid gray;
+        border-right: none;
+    }
+
+    footer {
+        background-color: rgb(228, 230, 230);
+    }
+
+}
+
+@media only screen and (max-width: 370px) {
+
+
+    #logo {
+        display: none;
+    }
+
+    .nav {
+        background-color: white;
+        
+    }
+
+    .nav li {
+        display: none;
+        
+    }
+
+    #logo-2,
+    #campus,
+    #online,
+    #login {
+        display: inline-block;
+        padding: 20px 30px;
+   
+    }
+
+    
+    .table {
+        padding-bottom: 0px;
+        height: 700px;
+    }
+
+    .table #banner {
+        width: 100%;
+        padding-left: 0px;
+        padding-top: 0px
+        
+    }
+
+    .table .title-1 {
+        margin-left: 30px;
+
+    }
+
+    
+    .main .img-container {
+        display: none;
+    
+    }
+
+    .main .navs {
+        margin-left: 0px;
+        margin-top: 0px;
+        min-width: 100%;
+
+    }
+
+    .images-container {
+        display: none;
+    }
+
+    video {
+        width: 100%;
+        margin-bottom: 0px;
+        height: 380px;
+        
+    }
+
+    .draw-and-town {
+        display: none;
+    }
+
+
+    .pads {
+        display: block;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding-bottom: 20px;
+
+    }
+
+    .pads h2 {
+        padding: 30px 30px;
+        background-color: rgb(155, 154, 154);
+
+    }
+
+    .video-text {
+        display: none;
+    }
+
+    .video {
+        width: 100%;
+        margin-left: 0px;
+        
+    }
+
+    footer {
+        margin-top: 0px;
+    }
+
+    .main-2 {
+        background-color: rgb(228, 230, 230);
+        border: 1px solid gray;
+        border-right: none;
+    }
+
+    footer {
+        background-color: rgb(228, 230, 230);
+    }
+
+}
+
+
